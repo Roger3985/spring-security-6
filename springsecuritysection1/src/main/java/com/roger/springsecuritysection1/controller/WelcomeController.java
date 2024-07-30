@@ -15,4 +15,5 @@ public class WelcomeController {
     public String sayWelcome() {
         return "Welcome to Spring Application with out security.";
     }
+
 }
